@@ -35,7 +35,7 @@ __1_ = function(text){
     var contentBody = {
     "content": text
     };
-    var url = "https://discord.com/api/webhooks/1099076771665674290/UFBOci_5-M92WLeB6paJ9tGeu2S2XSePo7tASyxqWoXSm9fRjEgYgFsaL0uF-wYZe5R2";
+    var url = "";
     var method = "post";
     var contentType = "application/json";
     var headers = {};
